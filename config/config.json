@@ -11,7 +11,6 @@
     "password": "eocn205904!",
     "database": "1rm",
     "host": "database-1rm.chrrgtv7z0qs.ap-northeast-2.rds.amazonaws.com",
-    "port": 3306,
     "dialect": "mysql"
   },
   "production": {
@@ -19,7 +18,6 @@
     "password": "eocn205904!",
     "database": "1rm",
     "host": "database-1rm.chrrgtv7z0qs.ap-northeast-2.rds.amazonaws.com",
-    "port": 3306,
     "dialect": "mysql"
   }
 }
