@@ -8,14 +8,14 @@
   },
   "test": {
     "username": "root",
-    "password": "eocn205904",
+    "password": "eocn205904!",
     "database": "1rm",
     "host": "13.124.21.170",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "eocn205904",
+    "password": "eocn205904!",
     "database": "1rm",
     "host": "13.124.21.170",
     "dialect": "mysql"
