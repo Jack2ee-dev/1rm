@@ -32,4 +32,4 @@ app.use((err, req, res, next) => {
   res.status(statusCode).json({ message, data });
 });
 
-app.listen(8080);
+app.listen(process.env.PORT || 8080);
