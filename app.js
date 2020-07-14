@@ -32,8 +32,5 @@ app.use((err, req, res, next) => {
   res.status(statusCode).json({ message, data });
 });
 
-app.get('/', (req, res, next) => {
-  res.status(200).json('connected');
-});
-
+console.log(process.env);
 app.listen(process.env.PORT || 8080);
