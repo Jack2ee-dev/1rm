@@ -10,14 +10,16 @@
     "username": "root",
     "password": "eocn205904!",
     "database": "1rm",
-    "host": "database-1rm.chrrgtv7z0qs.ap-northeast-2.rds.amazonaws.com:3306",
+    "host": "database-1rm.chrrgtv7z0qs.ap-northeast-2.rds.amazonaws.com",
+    "port": 3306,
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": "eocn205904!",
     "database": "1rm",
-    "host": "13.124.21.170",
+    "host": "database-1rm.chrrgtv7z0qs.ap-northeast-2.rds.amazonaws.com",
+    "port": 3306,
     "dialect": "mysql"
   }
 }
